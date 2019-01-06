@@ -8,6 +8,7 @@
 
 // Counts down on a four-digit seven-segment display.
 // Based on using the Four-bit digital tube from the UNIROI Complete Arduino Kit for Beginner.
+// Only tested on an Arduino Uno.
 
 // Cathodes
 int a = 1;
